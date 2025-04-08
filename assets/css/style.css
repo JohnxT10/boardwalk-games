@@ -102,6 +102,15 @@ h2 {
     border: none;
 }
 
+
+/* student discount */
+
+#student {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+}
+
 /* Footer / contact */
 
 #contact {
